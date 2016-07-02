@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent" android:layout_height="match_parent"
-    android:background="#FFEBEE">
+    android:background="#E8EAF6">
 
     <TextView
         android:id="@+id/txtNewMessage"
@@ -12,7 +12,7 @@
         android:textStyle="bold"
         android:layout_centerInParent="true"
         android:textAlignment="center"
-        android:textColor="#F44336"/>
+        android:textColor="#3F51B5"/>
     
     <FrameLayout
         android:layout_width="match_parent"

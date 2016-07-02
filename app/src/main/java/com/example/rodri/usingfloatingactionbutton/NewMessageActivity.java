@@ -27,7 +27,7 @@ public class NewMessageActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Snackbar.make(findViewById(android.R.id.content), "Using Floating Action Button!", Snackbar.LENGTH_LONG)
                         .setAction("Got it!", onClickListener)
-                        .setActionTextColor(Color.RED)
+                        .setActionTextColor(Color.YELLOW)
                         .show();
             }
         });
